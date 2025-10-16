@@ -7,4 +7,5 @@ class Player:
         self.resources = resources
         self.territories = territories
         self.name = name
+        self.customcolor = None
 
